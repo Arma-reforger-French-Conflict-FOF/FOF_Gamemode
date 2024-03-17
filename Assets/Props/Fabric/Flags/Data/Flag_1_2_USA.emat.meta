@@ -9,6 +9,8 @@ MetaFileClass {
   }
   EMATResourceClass PS4 : PC {
   }
+  EMATResourceClass PS5 : PC {
+  }
   EMATResourceClass HEADLESS : PC {
   }
  }

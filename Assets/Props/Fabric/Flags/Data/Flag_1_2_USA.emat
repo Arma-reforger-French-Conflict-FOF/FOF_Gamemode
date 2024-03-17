@@ -1,3 +1,8 @@
 MatPBRBasic : "{610803CC3F3D6649}Assets/Props/Fabric/Flags/Data/Flag_1_2_USA.emat" {
- BCRMap "{3D11ADC655361633}Missions/FOF_Faction.edds" clampu
+ Color 0.467 0.467 0.467 1
+ DiffuseIBL 0.255 0.255 0.255 1
+ BCRMap "{52D910FF2F5BECDF}Data/FOF_Faction.edds"
+ GlobalMapsUVTransform MatUVTransform "{589E89E1D82D5F77}" {
+  OffsetU 0
+ }
 }
