@@ -1,0 +1,14 @@
+GenericEntity {
+ ID "56F2C6D6F7C6DAFA"
+ components {
+  ActionsManagerComponent "{56F2C6D1431ADB12}" {
+   additionalActions {
+    Bacon_GunBuilderOpenAction "{606B12191E111053}" {
+     UIInfo UIInfo "{606B12192038245D}" {
+      Name "Loadout"
+     }
+    }
+   }
+  }
+ }
+}

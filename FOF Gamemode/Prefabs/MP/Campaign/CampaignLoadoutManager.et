@@ -1,0 +1,36 @@
+SCR_LoadoutManager : "{AA4E7419A1FF65B0}Prefabs/MP/Managers/Loadouts/LoadoutManager_Base.et" {
+ ID "5690D9DBA5D97663"
+ coords 0 0 0
+ m_aPlayerLoadouts {
+  SCR_FactionPlayerLoadout "{60A12C08816AC047}" {
+   m_sLoadoutName "FOF Fusilier"
+   m_sLoadoutResource "{2D5495F6D3BBC471}Prefabs/Characters/Campaign/Final/FOF_Fusilier.et"
+   m_sAffiliatedFaction "US"
+  }
+  SCR_FactionPlayerLoadout "{60A202DE4665EC59}" {
+   m_sLoadoutName "FOF Mitrailleur"
+   m_sLoadoutResource "{30BD18B8F0E79BE8}Prefabs/Characters/Campaign/Final/FOF_Mitrailleur.et"
+   m_sAffiliatedFaction "US"
+  }
+  SCR_FactionPlayerLoadout "{60A202DE59D19632}" {
+   m_sLoadoutName "FOF Antichar"
+   m_sLoadoutResource "{30E82D2AD61B015C}Prefabs/Characters/Campaign/Final/FOF_Antichar.et"
+   m_sAffiliatedFaction "US"
+  }
+  SCR_FactionPlayerLoadout "{60A202D8C3360715}" {
+   m_sLoadoutName "FOF Grenadier"
+   m_sLoadoutResource "{D42C3B15BFC5F9BE}Prefabs/Characters/Campaign/Final/FOF_Grenadier.et"
+   m_sAffiliatedFaction "US"
+  }
+  SCR_FactionPlayerLoadout "{60A210A3BD111C0C}" {
+   m_sLoadoutName "FOF Medic"
+   m_sLoadoutResource "{BB1E5453966F7011}Prefabs/Characters/Campaign/Final/FOF_Medic.et"
+   m_sAffiliatedFaction "US"
+  }
+  SCR_FactionPlayerLoadout "{60A210A67C43E2D2}" {
+   m_sLoadoutName "FOF Logistique"
+   m_sLoadoutResource "{C0158D60C74E1AF8}Prefabs/Characters/Campaign/Final/FOF_Logistique.et"
+   m_sAffiliatedFaction "US"
+  }
+ }
+}

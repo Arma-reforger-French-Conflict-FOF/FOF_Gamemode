@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2D5495F6D3BBC471}Prefabs/Characters/Campaign/Final/FOF_Fusilier.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

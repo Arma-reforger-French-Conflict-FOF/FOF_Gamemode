@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{30BD18B8F0E79BE8}Prefabs/Characters/Campaign/Final/FOF_Mitrailleur.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
