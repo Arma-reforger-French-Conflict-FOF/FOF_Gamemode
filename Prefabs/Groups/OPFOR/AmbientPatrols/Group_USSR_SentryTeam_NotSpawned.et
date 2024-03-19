@@ -1,0 +1,16 @@
+SCR_AIGroup : "{CB58D90EA14430AD}Prefabs/Groups/OPFOR/Group_USSR_SentryTeam.et" {
+ ID "0000000000000001"
+ components {
+  SCR_AIConfigComponent "{512CC1759AE69D6D}" {
+   m_Skill 0.6
+  }
+  SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+   m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+    m_Image "{19EEA222AE38E1AE}UI/Textures/EditorPreviews/Groups/OPFOR/RHS_RF_MSV/EMR/Group_MSV_EMR_SentryTeam.edds"
+   }
+  }
+ }
+ m_aUnitPrefabSlots {
+  "{3B167AFE3D75631C}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et" "{3B167AFE3D75631C}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et"
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C54B99330F4C59F8}Prefabs/Groups/OPFOR/AmbientPatrols/Group_USSR_SentryTeam_NotSpawned.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
