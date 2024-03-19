@@ -7,6 +7,9 @@ Vehicle : "{D03C0F6044DB5208}Prefabs/Vehicles/Helicopters/UH1H/UH1H_base.et" {
      SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
       m_Value 2250
      }
+     SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
+      m_Value 200
+     }
      SCR_EntityBudgetValue "{5EF07CE9B4A73374}" {
       m_BudgetType RANK_CAPTAIN
       m_Value 5
