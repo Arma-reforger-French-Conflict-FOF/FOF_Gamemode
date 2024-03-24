@@ -10,6 +10,7 @@ SCR_AIGroup : "{30ED11AA4F0D41E5}Prefabs/Groups/OPFOR/Group_USSR_FireGroup.et" {
    }
   }
  }
+ DangerEventRange 400
  m_aUnitPrefabSlots {
   "{138AE55C88757687}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_GL.et" "{3B167AFE3D75631C}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Rifleman.et" "{C6F7F2BC064B01F1}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_AT.et" "{1E8265C4FCFC787B}Prefabs/Characters/Factions/OPFOR/RHS_RF_MSV/EMR/Character_RF_MSV_EMR_Armored_Base.et"
  }
