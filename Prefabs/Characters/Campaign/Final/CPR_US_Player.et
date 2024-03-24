@@ -9,6 +9,9 @@ SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate "{D190F29521A9E6E0}Prefabs/Weapons/Rifles/M27IAR/Rifle_M27IAR_SU230.et"
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{8069A3DF6410FDDF}Prefabs/Weapons/Handguns/M17/Handgun_M17.et"
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
@@ -42,6 +45,9 @@ SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_
     ItemsInitConfigurationItem "{5D7CAAFB9235E903}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_PCGen_III/Vest_PCGen_III.et"
      TargetPurpose 1
+     PrefabsToSpawn + {
+      "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et"
+     }
     }
     ItemsInitConfigurationItem "{5A24B6035F7619E7}" {
      TargetStorage "Prefabs/Characters/Uniforms/BDU_Pants/BDU_PANTS_MC.et"

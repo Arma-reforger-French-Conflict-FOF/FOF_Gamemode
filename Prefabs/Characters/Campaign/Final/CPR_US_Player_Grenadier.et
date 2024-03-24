@@ -9,6 +9,9 @@ SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate "{B114FEA14C45EAD4}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_M203_RAS_SU230_PEQ.et"
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{8069A3DF6410FDDF}Prefabs/Weapons/Handguns/M17/Handgun_M17.et"
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
@@ -65,6 +68,9 @@ SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_
     }
     ItemsInitConfigurationItem "{5EE0ED82EAABBE2F}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/FILBE_hydration_pack.et"
+     PrefabsToSpawn + {
+      "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et"
+     }
     }
    }
   }

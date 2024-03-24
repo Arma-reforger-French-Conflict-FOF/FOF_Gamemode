@@ -10,7 +10,7 @@ SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_
    WeaponTemplate "{8909A91CFF369BB3}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
-   Enabled 0
+   WeaponTemplate "{8069A3DF6410FDDF}Prefabs/Weapons/Handguns/M17/Handgun_M17.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
@@ -67,6 +67,9 @@ SCR_ChimeraCharacter : "{26A9756790131354}Prefabs/Characters/Factions/BLUFOR/US_
     }
     ItemsInitConfigurationItem "{5538C040737C0BE0}" {
      TargetStorage "Prefabs/Items/Equipment/Backpacks/FILBE_hydration_pack.et"
+     PrefabsToSpawn + {
+      "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et" "{8FF49793853DB2F9}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_17rnd.et"
+     }
     }
     ItemsInitConfigurationItem "{5EE0ED8400C147A5}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_PCGen_III_Pouches/Pouch_Admin.et"
